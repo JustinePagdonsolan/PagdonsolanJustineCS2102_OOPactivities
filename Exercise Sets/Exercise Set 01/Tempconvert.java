@@ -8,7 +8,7 @@ public class Tempconvert{
             int celsius = givenTemp.nextInt();
 
             int fahrenheit = (celsius * 9/5 + 32);
-            System.out.print( celsius + " Celsius is" + fahrenheit + " Fahrenheit");
+            System.out.print( celsius + " Celsius is " + fahrenheit + " Fahrenheit");
         }
 
 }

@@ -55,3 +55,9 @@ public class Car {
     }
 }
 
+/*
+Output:
+Car (white) - P19999.85 - medium
+Car (black) - P50000.00 - large
+ */
+
